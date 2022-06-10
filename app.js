@@ -53,6 +53,6 @@ async function fetchWeather(city){
     })
 }
 
-http://api.weatherapi.com/v1/current.json?key=f5e83d2edc844ce5928141512222305&q=London&aqi=no
+
 
 app.listen(3000)
